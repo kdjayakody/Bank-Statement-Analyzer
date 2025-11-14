@@ -1,0 +1,5 @@
+{
+  "name": "Bank Statement Analyzer",
+  "description": "An intelligent web application that uses Gemini to extract transactional data from uploaded bank statement images with high accuracy and displays it in a structured format.",
+  "requestFramePermissions": []
+}
